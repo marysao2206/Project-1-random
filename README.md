@@ -26,3 +26,36 @@
 | 01 | Mary | 19  | 016401|
 | 02 | Mary | 19  | 016401|
 
+## block quote
+> npm install
+
+> composer install
+
+> pip install
+
+## code online
+`print('hello world')`
+
+`npm install experss`
+
+### Code multiple line
+
+```html
+<h1>Class C </h1>
+<p> students</p>
+````
+```python
+for i in range (10):
+    print(i)
+````
+```css
+nav {
+    display: flex;
+    justify-content:center;
+ }
+ ````
+
+ ## Check 
+ - [x]Home
+ - [y]school
+ - [M]miss
