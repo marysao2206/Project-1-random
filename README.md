@@ -40,15 +40,15 @@
 
 ### Code multiple line
 
-```html
+````html
 <h1>Class C </h1>
 <p> students</p>
-````
-```python
+`````
+`````python
 for i in range (10):
     print(i)
 ````
-```css
+````css
 nav {
     display: flex;
     justify-content:center;
@@ -56,6 +56,13 @@ nav {
  ````
 
  ## Check 
- - [x]Home
- - [y]school
- - [M]miss
+ - [x] Home
+ - [y] school
+ - [] miss
+ - [] Mary
+
+ ## Link
+ CSS framework [Mary] (https://www.w3schools.com/)
+
+ ## Image dashboard
+ ![Dashboard](image.png)
