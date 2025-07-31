@@ -47,7 +47,7 @@
 `````python
 for i in range (10):
     print(i)
-````
+`````
 ````css
 nav {
     display: flex;
@@ -57,12 +57,15 @@ nav {
 
  ## Check 
  - [x] Home
- - [y] school
+ - [x] school
  - [] miss
  - [] Mary
 
  ## Link
- CSS framework [Mary] (https://www.w3schools.com/)
 
+ CSS framework [Mary]()
  ## Image dashboard
- ![Dashboard](image.png)
+ ![dashboard](image.png)
+
+ ## Badge
+ [![Button] (https://img.shields.io/badge/Visit-Website-blue)]
